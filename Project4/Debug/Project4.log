@@ -1,0 +1,22 @@
+﻿Build started 11/19/2014 3:34:00 PM.
+     1>Project "C:\Users\Chuyinzkiz\Documents\UCSD 2014\CSE 167\Project4_Jesus Villegas\Project4_Jesus Villegas\Project4\Project4.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chuyinzkiz\Documents\UCSD 2014\CSE 167\Project4_Jesus Villegas\Project4_Jesus Villegas\Debug\Project4.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Glut\glut-3.7.6-bin" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Chuyinzkiz\Documents\UCSD 2014\CSE 167\Project4_Jesus Villegas\Project4_Jesus Villegas\Debug\Project4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chuyinzkiz\Documents\UCSD 2014\CSE 167\Project4_Jesus Villegas\Project4_Jesus Villegas\Debug\Project4.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\Cube.obj
+         Debug\Geode.obj
+         Debug\Group.obj
+         Debug\main.obj
+         Debug\Matrix4.obj
+         Debug\MatrixTransform.obj
+         Debug\Node.obj
+         Debug\Robot.obj
+         Debug\Sphere.obj
+         Debug\Vector3.obj
+         Debug\Vector4.obj
+         Debug\window.obj
+         Project4.vcxproj -> C:\Users\Chuyinzkiz\Documents\UCSD 2014\CSE 167\Project4_Jesus Villegas\Project4_Jesus Villegas\Debug\Project4.exe
+     1>Done Building Project "C:\Users\Chuyinzkiz\Documents\UCSD 2014\CSE 167\Project4_Jesus Villegas\Project4_Jesus Villegas\Project4\Project4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
